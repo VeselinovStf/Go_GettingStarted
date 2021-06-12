@@ -17,4 +17,5 @@ Go is one of the most exciting programming languages in the world today. It chal
 1. Course Overview
 2. Introduction
 3. Starting Project
+4. Working with Primitive Data Types
 
