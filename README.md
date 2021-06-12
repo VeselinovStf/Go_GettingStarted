@@ -3,6 +3,8 @@
 `Go: Getting Started` - Pluralsight course repo
 
 Author: Mike Van Sickle
+Level: Beginner
+Duration: 3h 29m
 
 ## Info
 
@@ -20,3 +22,10 @@ Go is one of the most exciting programming languages in the world today. It chal
 4. Working with Primitive Data Types
 5. Creating Functions and Methods
 6. Controlling Program Flow
+
+## Course Project
+    Implement Simple Web Service - API
+
+## Status
+
+Completed
