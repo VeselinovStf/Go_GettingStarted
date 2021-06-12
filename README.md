@@ -19,4 +19,4 @@ Go is one of the most exciting programming languages in the world today. It chal
 3. Starting Project
 4. Working with Primitive Data Types
 5. Creating Functions and Methods
-
+6. Controlling Program Flow
